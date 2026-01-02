@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI 学者：智能学习枢纽1",
+  "description": "一个功能齐全的 AI 驱动学习平台，具有智能聊天、自动测验生成和思维导图可视化功能，提供个性化教育体验。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
